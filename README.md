@@ -27,7 +27,7 @@ In the picture below i numbered servos from 0 to 17 and this is order i'm using 
 <img width="500" alt="hexapod_project_fusion 6" src="https://user-images.githubusercontent.com/97260629/156940306-6f7e1da1-d8b1-480f-880e-e850e0902fba.png">
 Here's how i connected everything with raspberry.
 <img width="500" alt="connection" src="https://user-images.githubusercontent.com/97260629/156940382-a765efa2-7e1a-4601-bd80-3e1705825fc5.png">
-And how swtiches and power are connected do Raspberry GPIO.
+And how swtiches and power are connected to Raspberry GPIO.
 <img width="500" alt="gpio connection" src="https://user-images.githubusercontent.com/97260629/156940423-5352075a-2a17-4e4c-8942-5ba040a54ea3.png">
 
 
